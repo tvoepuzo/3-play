@@ -1,3 +1,2 @@
 ﻿  3 игры.cpp
-C:\Users\Анастасия\Documents\Уч_проекты\3 игры\3 игры\3 игры.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   3 игры.vcxproj -> C:\Users\Анастасия\Documents\Уч_проекты\3 игры\x64\Debug\3 игры.exe
